@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StopWordsRemover","timestamp":1520534635391,"sparkVersion":"2.2.1","uid":"StopWordsRemover_48dd8459c08b175f51ce","paramMap":{"outputCol":"filtered","inputCol":"words","stopWords":["amp","rt","ca","pg","ga","cb","ap","sce","st"],"caseSensitive":false}}
